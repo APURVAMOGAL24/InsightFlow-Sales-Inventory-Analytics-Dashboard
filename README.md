@@ -9,7 +9,7 @@ InsightFlow is a Power BI analytics project designed to monitor sales performanc
 - SQL Server (SSMS)
 - MySQL
 - Power BI (.pbip)
-- Power Query
+- Power Query eDITOR
 
 ---
 
@@ -38,6 +38,16 @@ InsightFlow is a Power BI analytics project designed to monitor sales performanc
 
 ---
 
+## 📸 Dashboard Preview
+
+### 📊 Dashboard 1
+![Dashboard 1](Dashboard-images/dashboard1.png)
+
+### 📊 Dashboard 2
+![Dashboard 2](Dashboard-images/dashboard2.png)
+
+---
+
 ## 💡 Insights
 - Detect high-demand, low-availability products  
 - Monitor profit and loss trends  
@@ -46,4 +56,4 @@ InsightFlow is a Power BI analytics project designed to monitor sales performanc
 ---
 
 ## 📬 Contact
-Feel free to connect with me for feedback, collaboration, or opportunities!  
+Feel free to fork and extend this project with new features and insights, 
