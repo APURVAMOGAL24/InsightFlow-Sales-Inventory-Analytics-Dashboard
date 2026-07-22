@@ -1,0 +1,22 @@
+model Model
+	culture: en-US
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-US
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation __PBI_TimeIntelligenceEnabled = 1
+
+annotation PBI_QueryOrder = ["Demand/Availability Record","Measure Table 1","Measure Table 2"]
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table 'Demand/Availability Record'
+ref table 'Measure Table 1'
+ref table 'Measure Table 2'
+ref table DateTableTemplate_d3142e4d-ad78-445c-85ed-22b28bad347e
+ref table LocalDateTable_86b8ec8f-7cd2-49be-92ab-7810170676da
+
+ref cultureInfo en-US
+
