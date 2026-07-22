@@ -1,5 +1,0 @@
-relationship 65947548-1703-4daa-8833-dc952577320a
-	joinOnDateBehavior: datePartOnly
-	fromColumn: 'Demand/Availability Record'.Order_Date_DD_MM_YYYY
-	toColumn: LocalDateTable_86b8ec8f-7cd2-49be-92ab-7810170676da.Date
-
